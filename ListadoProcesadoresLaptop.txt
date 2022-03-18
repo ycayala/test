@@ -1,0 +1,121 @@
+ 
+ProcesadoresLaptop	
+AMD Ryzen 9 5900HX 100%	
+Intel Core i9-11980HK 99.9%	
+Intel Core i9-11950H 98%	
+AMD Ryzen 9 5980HS 97.1%	
+AMD Ryzen 9 5900HS 96%	
+Intel Core i9-11900H 94.7%	
+Intel Core i7-11850H 92.7%	
+Intel Core i7-11800H 92.2%	
+AMD Ryzen 7 5800H 92.2%	
+AMD Ryzen 7 5800HS 89.4%	
+AMD Ryzen 9 4900HS 83.4%	
+AMD Ryzen 7 5800U 82.5%	
+AMD Ryzen 7 4800H 81.6%	
+AMD Ryzen 9 4900H 80.8%	
+AMD Ryzen 7 4800HS 80.7%	
+AMD Ryzen 7 Extreme Edition 77.4%	
+Intel Core i5-11500H 74.6%	
+AMD Ryzen 5 5600H 74.2%	
+AMD Ryzen 7 4800U 73.4%	
+Intel Core i9-10980HK 70.6%	
+AMD Ryzen 7 5700U 70.1%	
+Intel Core i7-10700TE 69.5%	
+Intel Core i9-10885H 67.8%	
+AMD Ryzen 5 5600U 67.5%	
+Intel Core i5-11400H 67.2%	
+Intel Core i7-10875H 66.4%	
+Intel Core i9-10880H 65.5%	
+Intel Core i7-10870H 65.5%	
+Apple M1 64.5%	
+Intel Core i9-9980HK 63.7%	
+AMD Ryzen 5 4600H 63%	
+AMD Ryzen 5 4600HS 62.5%	
+Intel Core i7-1195G7 60.4%	
+Intel Core i5-11260H 60.2%	
+Intel Core i9-9880H 60%	
+AMD Ryzen 7 4700U 58.5%	
+AMD Ryzen 5 4600U 58.3%	
+AMD Ryzen 5 5500U 56.6%	
+Intel Core i7-10750H 53.3%	
+Intel Core i7-11370H 52.8%	
+Intel Core i7-11375H 52.8%	
+Intel Core i5-10500H 52%	
+Intel Core i7-10850H 51.7%	
+AMD Ryzen 3 5400U 51.6%	
+Intel Core i7-1185G7E 49.6%	
+Intel Core i7-9750HF 49.3%	
+Intel Core i7-9850H 49.3%	
+Intel Core i5-11300H 48.5%	
+Intel Core i7-9750H 48%	
+AMD Ryzen 5 4500U 47.8%	
+Intel Core i7-1160G7 46.8%	
+Intel Core i7-1185G7 46.5%	
+Intel Core i5-1145G7 45.9%	
+Intel Core i7-9700TE 45.6%	
+Intel Core i7-1165G7 45.4%	
+Intel Core i5-1130G7 44.8%	
+Intel Core i7-1068NG7 44.1%	
+Intel Core i5-1135G7 43.1%	
+AMD Ryzen 3 5300U 43%	
+Intel Core i7-10710U 42.9%	
+Intel Core i3-1125G4 42.8%	
+Intel Core i5-1038NG7 41.6%	
+Intel Core i5-9400F 40.6%	
+Intel Core i5-9500TE 39.2%	
+Intel Core i7-9850HL 38.8%	
+Intel Core i5-10400H 38%	
+Intel Core i7-1065G7 37.5%	
+Intel Core i7-10810U 37.4%	
+Intel Core i5-10300H 37.3%	
+Intel Core i5-10200H 36%	
+Intel Core i5-1035G7 35.8%	
+AMD Ryzen 7 3750H 35.5%	
+Intel Core i5-1035G4 35.3%	
+Intel Core i5-9400H 35.2%	
+AMD Ryzen 5 3550H 34.4%	
+AMD Ryzen 3 4300U 34.3%	
+AMD Ryzen 5 3500U 33.7%	
+Intel Core i5-1035G1 33.4%	
+Intel Core i5-9300H 33.4%	
+AMD Ryzen 5 3580U 33.2%	
+Intel Core i5-9300HF 32.6%	
+Intel Core i3-10100T 31.7%	
+AMD Ryzen 7 3780U 31.4%	
+AMD Ryzen 7 3700U 31.3%	
+Intel Core i7-1060NG7 31.2%	
+Intel Core i7-10610U 30.3%	
+Intel Core i7-5850EQ 30%	
+Intel Core i7-10510U 29.3%	
+AMD Ryzen 5 3450U 29%	
+Intel Core i5-10210U 28.7%	
+Intel Core i5-10310U 28.5%	
+Intel Core i3-1115G4 27.5%	
+Intel Core i5-1030NG7 26.6%	
+AMD Ryzen 3 3300U 24.9%	
+AMD Ryzen 3 3350U 24.9%	
+Intel Pentium Gold 7505 23.1%	
+Intel Core i7-10510Y 22.5%	
+Intel Core i3-1005G1 22.4%	
+Intel Core i5-10210Y 20.6%	
+Intel Pentium 6805 20.2%	
+AMD Athlon Silver 3050GE 19.4%	
+Intel Core i3-9100TE 19.2%	
+AMD Athlon Gold 3150U 18.7%	
+AMD Ryzen 3 3250U 17.5%	
+Intel Core i3-10110U 17.3%	
+Intel Core i3-1000NG4 17.3%	
+AMD Ryzen 3 3200U 16.8%	
+Intel Core i3-10110Y 14.7%	
+Intel Core i5-L16G7 14.6%	
+Intel Pentium Silver N5030 11.3%	
+Intel Celeron N5100 11.2%	
+Intel Pentium 6405U 10.1%	
+Intel Core i3-6102E 10%	
+Intel Pentium 5405U 9.7%	
+Intel Celeron 6305 9.6%	
+Intel Pentium 4417U 9.5%	
+Intel Celeron 4305UE 8.3%	
+Intel Pentium 4425Y 7.2%	
+Intel Celeron 5205U 5.8%
