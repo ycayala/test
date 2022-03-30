@@ -2,3 +2,4 @@
 --version 1 de archivo de prueba
 en esta linea se agrega la edad 45 años
 --modificacion en la rama master par ejemplo merge
+-- sincronizando el repo 
