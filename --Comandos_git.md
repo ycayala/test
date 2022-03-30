@@ -103,4 +103,8 @@ ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
 eval $(ssh-agent - s)
 ssh-add ~/.ssh/id_rsa
 
+--ignorar archivos de repositorios(generalmente binarios, es decir archivos que nos son planos) 
+-- se crea un archivo .gitignore y dentro se ponen las carpesa con /<nombre_carpeta> y archivos. (comodin es *)
+
+
 
