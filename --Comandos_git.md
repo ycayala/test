@@ -71,6 +71,24 @@ git pull origin master
 git pull origin master --allow-unrelated-histories
 -- cambiar url de directorio remoto
 git remote set-url origin nuevo_link
+-- crear un alias en linux
+alias ramas="git log --all --graph --decorate --oneline"
+-- crear un tac para versionamiento
+git tac -a nombre_de_tag -m "primera version de software" codigo_cabecera
+-- ver todos los tag creados
+git tac
+-- ver en a que cabecera estan apuntando los tags
+git show-ref --tags
+-- subir cambios de un tag
+git push origin --tags
+-- eliminar un tag
+git tac -d nombre_tag
+-- borrar tac de repos
+git push origin :refs/tags/nombre_tag
+-- descripcion de ramas
+git show-branch --all
+-- enviar ramas creadas en local a remoto
+git push origin development
 
 
 
