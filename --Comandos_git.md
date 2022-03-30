@@ -39,6 +39,8 @@ git log
 git show nombre_archivo.txt
 --historial de cambios realizados en un archivo
 git log archivo.txt
+-- mostrar cambios
+git diff
 -- comparar cambios de dos commit(el codigo de commit se saca con el anterior archivo)
 git diff codigo_commit_1 codigo_commit_2
 -- volver a version anterior
@@ -89,6 +91,8 @@ git push origin :refs/tags/nombre_tag
 git show-branch --all
 -- enviar ramas creadas en local a remoto
 git push origin development
+-- crear una nueva fuente remota upstream 
+git remote add <nombre_del_remoto> <url_del_remoto> 
 
 
 
